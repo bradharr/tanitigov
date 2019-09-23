@@ -92,10 +92,6 @@ footer {
 @media(max-width: 568px) {
 .pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6 {
     background-attachment: scroll;
-    background-size: 50%;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-
+    background-size: 200%;
 }
 }
