@@ -94,4 +94,7 @@ footer {
     background-attachment: scroll;
     max-width: 200%;
 }
+.ptext {
+    font-size: 2vw;
+}
 }
