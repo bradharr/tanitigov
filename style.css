@@ -90,8 +90,10 @@ footer {
 }
 
 @media(max-width: 568px) {
-.pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6 {
+.pimg2, .pimg3, .pimg4, .pimg5, .pimg6 {
     background-attachment: scroll;
-    max-width: 200%;
+}
+.pimg1 {
+    background-image: none;
 }
 }
