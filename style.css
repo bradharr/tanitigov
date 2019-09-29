@@ -8,6 +8,14 @@ body, html {
     color: #666;
 }
 
+.section-light a {
+    color: #666;
+}
+
+.section-dark a {
+    color: #fff;
+}
+
 .pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6 {
     position: relative;
     opacity: 0.70;
@@ -43,8 +51,10 @@ body, html {
 }
 
 .section {
-    text-align: center;
-    padding: 50px 80px;
+    text-align: left;
+    padding: 50px 15%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .section-light {
     background-color: #f4f4f4;
@@ -69,6 +79,9 @@ body, html {
     background-color: #111;
     color: white;
     padding: 20px;
+}
+h2 {
+    text-align: center;
 }
 h4 {
     color: #fff;
